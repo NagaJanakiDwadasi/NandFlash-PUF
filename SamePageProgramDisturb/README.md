@@ -6,8 +6,8 @@ Steps performed in the program are:<br/>
 &nbsp;> Configuration of System Clock<br/>
 &nbsp;> Initialization of GPIO, FMC, UART<br/>
 &nbsp;> Initialization of NAND Controller<br/>
-&nbsp;&nbsp;&nbsp;> Device configuration with timings (setup time, wait time, hold time, etc..)<br/>
-&nbsp;&nbsp;&nbsp;> Features initialization (BANK, ECC computation, Block size, page size, etc..)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;> Device configuration with timings (setup time, wait time, hold time, etc..)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;> Features initialization (BANK, ECC computation, Block size, page size, etc..)<br/>
 &nbsp;> Define and initialize address for read/write<br/>
 &nbsp;> Erase Block<br/>
 &nbsp;> Load transmission buffer with AA for page size<br/>
