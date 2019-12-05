@@ -15,3 +15,4 @@ Steps performed in the program are:<br/>
 &nbsp;> Simultaneously read page to observe bit flips<br/>
 &nbsp;> After last write, read the page to identify stable bits by comparison<br/>
 &nbsp;> Identify the indexes of these stable bits in the page and print them<br/>
+<br/> Bitwise comparison logic is available in this code. Byte comparison logic is available in adjacent page program disturb code.
